@@ -2,6 +2,11 @@
 - Play "Who Said That" and "Higher or Lower" with our game built using the X Api!
 - [Click here for a video demonstration](https://youtu.be/BKOgVMVG_uI)
 
+<img width="1417" alt="Screenshot 2024-04-22 at 5 44 09 PM" src="https://github.com/eldenyap48/twitter_games/assets/57067059/f3defdb2-e873-4f12-bc5d-3c039b28b55d">
+<img width="1417" alt="Screenshot 2024-04-22 at 5 44 21 PM" src="https://github.com/eldenyap48/twitter_games/assets/57067059/fb075253-0a04-40b6-8c6f-302c2998452c">
+<img width="1417" alt="Screenshot 2024-04-22 at 5 44 31 PM" src="https://github.com/eldenyap48/twitter_games/assets/57067059/6edd559e-fe5c-429b-939c-f07b37880b01">
+
+
 ## Introduction
 - Engage with your favorite celebrities through games like "Who Said That" and "Higher or Lower" generated using real tweets pulled from the X api!!
 - Stay up-to-date with their latest post, and explore more celebrities
